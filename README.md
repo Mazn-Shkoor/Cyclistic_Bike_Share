@@ -14,7 +14,7 @@ The data that we will be using is Cyclistic’s historical trip data from last 1
 Download the datasets then run cyclistic.sql scrip in 02 - Data Cleanling folder. This would merge all the datasets and clean them.<br/><br/>
 
 <h2>PHASE 4: Analyzing Data</h2>
-Run analysis_code.R file that found in 03 - Data Analysis folder. Then download all the plotes from R studio.<br/><br/>
+Run analysis_code.R file in 03 - Data Analysis folder. Then download all the plotes from R studio.<br/><br/>
 
 <h2>PHASE 5: Share</h2>
 Microsoft PowerPoint is used for data visualization and presenting key insights. You may download it in 04 - Presentation folder. <br/><br/>
