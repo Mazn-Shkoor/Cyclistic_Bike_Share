@@ -1,4 +1,4 @@
-**Cyclistic Bike-Share: Case Study**<br/>
+#Cyclistic Bike-Share: Case Study
 This document is created as part of the capstone project of the Google Data Analytics Professional Certificate.
 
 **Introduction and Scenario**<br/>
